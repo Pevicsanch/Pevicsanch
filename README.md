@@ -17,6 +17,9 @@ Data Scientist and Data Analyst with strong background in Economics, Mathematics
 <br />
 <h2 align="center">My projects</h2>
 <br />
+<a href="https://github.com/Pevicsanch/NoSQL-MongoDB">
+  <img width="400" src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/nosql.png" />
+  </a>
 
 <a href="https://github.com/Pevicsanch/advanced-machine-learning">
   <img width="400" src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/advance.png" />
