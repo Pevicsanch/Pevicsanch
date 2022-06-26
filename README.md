@@ -4,10 +4,10 @@
 
 ### Hi there, I'm Pedro 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Data Scientist and Data Analyst with strong background in Economics,Mathematics, Statistics, and Cultural Studies. I'm interested in how can we apply Natural Language Processing and Machine Learning methods to solve business problems.
 
  ---
- <h4 align="left">Connect with me:</h4>
+ <h4 align="left">You can reach me:</h4>
   <p align='center'>
 <a href="mailto:sanchez.pv@onmail.com"><img height="30" src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/envelope.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.kaggle.com/pevicsanch"><img height="30" src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/kaggle.png?raw=true"></a>&nbsp;&nbsp;
