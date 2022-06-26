@@ -9,6 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  ---
  <h4 align="left">Connect with me:</h4>
   <p align='center'>
+<a href="mailto:sanchez.pv@onmail.com"><img height="30" src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/envelope.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.kaggle.com/pevicsanch"><img height="30" src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/kaggle.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pedro-vicent3/"><img height="30" src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
