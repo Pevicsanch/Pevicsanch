@@ -28,3 +28,7 @@ Data Scientist and Data Analyst with strong background in Economics, Mathematics
 <a href="https://github.com/Pevicsanch/db_mySQL">
   <img width="400" src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/database.png" />
   </a>
+
+<a href="https://github.com/Pevicsanch/web-scraping">
+  <img width="400" src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/scrap.png" />
+  </a>
