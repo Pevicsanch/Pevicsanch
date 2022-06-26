@@ -33,6 +33,10 @@ Data Scientist and Data Analyst with strong background in Economics, Mathematics
   <img width="400" src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/scrap.png" />
   </a>
 
-<a href="https://github.com/Pevicsanch/web-scraping">
+<a href="https://github.com/Pevicsanch/Supervised-Learning-regressio">
   <img width="400" src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/regression.png" />
+  </a>
+
+<a href="https://github.com/Pevicsanch/unsupervised-learning-classification">
+  <img width="400" src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/class.png" />
   </a>
