@@ -18,6 +18,6 @@ Data Scientist and Data Analyst with strong background in Economics, Mathematics
 <h2 align="center">My projects</h2>
 <br />
 
-<a href="https://github.com/Pevicsanch/advanced-machine-learning/blob/main/s12_t01_advanced_machine.ipynb">
-  <img width="400" src="https://github.com/Pevicsanch/advanced-machine-learning/blob/main/advance.png" />
+<a href="https://github.com/Pevicsanch/advanced-machine-learning">
+  <img width="400" src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/advance.png" />
   </a>
