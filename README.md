@@ -1,5 +1,5 @@
 <p>
-  <img width="250" align='left' src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/avatar.jpeg?raw=true">
+  <img width="250" align='left' src="https://github.com/Pevicsanch/Pevicsanch/blob/main/icon/avatar.png?raw=true">
 </p>
 
 ### Hi there, I'm Pedro 
