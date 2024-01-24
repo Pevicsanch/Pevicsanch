@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Pedro 
 
-Data Scientist and Data Analyst with strong background in Economics, Mathematics, Statistics, and Cultural Studies. I'm interested in how can we apply Natural Language Processing and Machine Learning methods to solve business problems with creative solutions.
+Data Scientist and Data Analyst with strong background in Economics, Mathematics, Statistics. I'm interested in how can we apply Natural Language Processing and Machine Learning methods to solve business problems with creative solutions.
 
  ---
  <h4 align="left">You can reach me:</h4>
